@@ -1,0 +1,17 @@
+asgiref==3.2.10
+boto3==1.16.4
+botocore==1.19.4
+Django==3.0.5
+django-filter==2.4.0
+django-storages==1.10.1
+docutils==0.16
+gunicorn==20.0.4
+jmespath==0.10.0
+Pillow==7.0.0
+python-dateutil==2.8.1
+pytz==2020.1
+s3transfer==0.3.3 
+six==1.15.0
+sqlparse==0.2.4
+urllib3==1.25.9
+whitenoise==5.2.0 
